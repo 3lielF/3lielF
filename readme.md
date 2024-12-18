@@ -1,6 +1,7 @@
 Hi, I’m Eliel Filho
+</br>
 Full-Stack Developer | 🌍 Based in Brazil
-
+</br></br>
 About Me
 💻 Passionate about building scalable and efficient web applications.
 🔍 Currently diving deeper into Mobile with Flutter framework.
@@ -12,6 +13,6 @@ Tools: Git, GitHub, Docker, AWS, Figma, Firebase
 Frameworks: Flutter, React Native
 Others: Data Science, Machine Learning
 Contact
-📧 Email: < a href="mailto:eliel.filho.705@ufrn.edu.br">eliel.filho.705@ufrn.edu.br</a>
-💼 LinkedIn: <a href="www.linkedin.com/in/eliel-filho-20819a27a">linkedin.com/in/elielF</a>
+📧 Email: < a href="mailto:eliel.filho.705@ufrn.edu.br">eliel.filho.705@ufrn.edu.br</a> </br>
+💼 LinkedIn: <a href="www.linkedin.com/in/eliel-filho-20819a27a">linkedin.com/in/elielF</a> </br>
 🌐 Personal Website: <a href="#">3lielF.github.io</a>
