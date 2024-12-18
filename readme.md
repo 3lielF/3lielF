@@ -22,9 +22,3 @@ Contact</br>
 
 ![ElielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lielF&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lielF&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Contact</br>
-📧 Email: <a href="mailto:eliel.filho.705@ufrn.edu.br">eliel.filho.705@ufrn.edu.br</a> </br>
-💼 LinkedIn: <a href="www.linkedin.com/in/eliel-filho-20819a27a">linkedin.com/in/elielF</a> </br>
-🌐 Personal Website: <a href="#">3lielF.github.io</a>
