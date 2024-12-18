@@ -14,8 +14,8 @@ Frameworks: Flutter, React Native</br>
 Others: Data Science, Machine Learning</br></br>
 
 
-    ![ElielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lielF&show_icons=true&theme=transparent)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lielF&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![ElielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=3lielF&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3lielF&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Contact</br>
